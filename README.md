@@ -14,7 +14,7 @@
 
 ### Live preview
 
-[Click Here](https://bhornbhaya.github.io/the-pig-game/)
+[Click Here](https://bhornbhaya.github.io/drum-kit/)
 
 ### Screenshot
 
